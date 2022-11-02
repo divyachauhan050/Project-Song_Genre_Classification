@@ -7,5 +7,7 @@ Next, I used the scikit-learn package to predict whether it correctly classifies
 ## About the Datasets
 I have used two different datasets (courtesy of Datacamp).
 
-1. **echonest-metrics.json**
+1. **‘echonest-metrics.json’** contains data about the .  
+
+2. **‘fma-rock-vs-hiphop.csv’** contains data about .
 
