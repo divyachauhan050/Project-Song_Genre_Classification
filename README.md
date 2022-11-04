@@ -7,7 +7,7 @@ Next, I used the scikit-learn package to predict whether it correctly classifies
 ## About the Datasets
 I have used two different datasets (courtesy of Datacamp).
 
-1. **‘echonest-metrics.json’** contains data that classifies a song's genre based on features such as danceability, energy, acousticness, tempo, etc.  
+1. **‘echonest-metrics.json’** contains data that has music features of each track such as danceability, energy, acousticness, tempo, etc on a scale from -1 to 1.  
 
-2. **‘fma-rock-vs-hiphop.csv’** contains data about .
+2. **‘fma-rock-vs-hiphop.csv’** contains data about.
 
