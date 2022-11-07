@@ -9,5 +9,5 @@ I have used two different datasets (courtesy of Datacamp).
 
 1. **‘echonest-metrics.json’** contains data that has music features of each track such as danceability, energy, acousticness, tempo, etc on a scale from -1 to 1.  
 
-2. **‘fma-rock-vs-hiphop.csv’** contains extensive data about the tracks and their genre classification (rock or hip-hop).
+2. **‘fma-rock-vs-hiphop.csv’** contains extensive data about the tracks and their genre classification (rock or hip-hop)
 
