@@ -13,10 +13,10 @@ I have used two different datasets (courtesy of Datacamp).
 
 ## Key Findings
 
-**Business Question that I try to answer: "Predicting if a credit card application will be approved or not?"**
+**Business Question that I try to answer: "Predicting ?"**
 
 These are some of the key findings for this project:
-1. The features of this dataset had been anonymized to protect the privacy, so determining the exact features was challenging. But [this blog](http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html) gives us a pretty good overview of the probable features.
+1. The features .
 
 2. The probable features in a typical credit card application are **Gender**, **Age**, **Debt**, **Married**, **BankCustomer**, **EducationLevel**, **Ethnicity**, **YearsEmployed**, **PriorDefault**, **Employed**, **CreditScore**, **DriversLicense**, **Citizen**, **ZipCode**, **Income** and finally the **ApprovalStatus**.
 
