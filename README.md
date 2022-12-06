@@ -24,4 +24,4 @@ These are some of the key findings for this project:
  
 4. Our dataset contains both numeric and non-numeric data (specifically data that are of **float64**, **int64**, and **object** types). Specifically, the features **2, 7, 10** and **14** contain numeric values (of types **float64, float64, int64** and **int64** respectively) and **all the other features** contain **non-numeric values**.
 
-5. The dataset also contains values from several ranges. Some features have a *value range of 0 - 28*, some have a *range of 2 - 67*, and some have a *range of 1017 - 100000*. Apart from these, we can get useful statistical information (like **mean**, **max**, and **min**) about the features that have numerical values.
+5. The dataset .
