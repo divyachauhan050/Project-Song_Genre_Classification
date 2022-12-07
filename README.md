@@ -23,5 +23,3 @@ These are some of the key findings for this project:
 3. Features like **DriversLicense** and **ZipCode** are not as important as the other features in the dataset for predicting credit card approvals, so they are dropped to obtain a more streamlined training data.
  
 4. Our dataset contains both numeric and non-numeric data (specifically data that are of **float64**, **int64**, and **object** types). Specifically, the features **2, 7, 10** and **14** contain numeric values (of types **float64, float64, int64** and **int64** respectively) and **all the other features** contain **non-numeric values**.
-
-5. The dataset
